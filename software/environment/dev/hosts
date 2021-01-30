@@ -10,3 +10,4 @@ localhost ansible_connection=local
 [docker]
 #172.31.27.97
 #172.31.26.83
+localhost ansible_connection=local
